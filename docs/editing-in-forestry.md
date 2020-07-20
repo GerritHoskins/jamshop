@@ -1,7 +1,7 @@
 ---
-title: Forestry CMS
+title: Check out and leave a happy customer
 date: 2020-01-02
-slug: forestry-cms
+slug: check-out
 
 ---
 ## Import starter
