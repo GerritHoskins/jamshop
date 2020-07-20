@@ -1,24 +1,29 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "Pick and Choose",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "Getting to know the products",
+          "slug": "products"
         }
       ]
     },
     {
-      "section": "Setup",
+      "section": "Cart It Up",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
-        },
+          "title": "Bag the right Product",
+          "slug": "product-selection"
+        }
+      ]
+    },
+    {
+      "section": "And Check On Out",
+      "topics": [
         {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Check out and leave a Happy Customer",
+          "slug": "check-out"
         }
       ]
     }
