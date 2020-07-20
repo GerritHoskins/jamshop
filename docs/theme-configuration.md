@@ -1,6 +1,6 @@
 ---
 title: Getting to know the products
-date: 2018-09-15T07:42:34.000+00:00
+date: 2018-09-14
 slug: products
 
 ---
